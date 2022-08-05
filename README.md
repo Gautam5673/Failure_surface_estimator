@@ -33,12 +33,12 @@ Folder:.
 | **File Name**                  | **Size** | **Description**                                                                        |
 | ------------------------------ | -------- | -------------------------------------------------------------------------------------- |
 | deg2utm.m                      | 4KB      | Function to convert lat/lon vectors into UTM coordinates (WGS84)                       |
-| Frasse_Landslide_boundary.kml  | 11KB     | Example of La frasse landslide containg the `.kml` file of landslide boundary          |
-| Frasse_Landslide_data.tif      | 35KB     | Example of La frasse landslide containg the grid data in `.tiff` file formate boundary |
+| Frasse_Landslide_boundary.kml  | 11KB     | Example of La frasse landslide containing the `.kml` file of landslide boundary          |
+| Frasse_Landslide_data.tif      | 35KB     | Example of La frasse landslide containing the grid data in `.tiff` file formate boundary |
 | gridfit.m                      | 35KB     | Function for surface fitting from scattered data                                       |
 | kml2struct.m                   | 3KB      | Function to import a `.kml` file as a series of shapefile structs                      |
-| kotropi_Landslide_boundary.kml | 4KB      | Example of Kotropi landslide containg the `.kml` file of landslide boundary            |
-| kotropi_Landslide_data.tif     | 35KB     | Example of Kotropi landslide containg the grid data in `.tiff` file formate boundary   |
+| kotropi_Landslide_boundary.kml | 4KB      | Example of Kotropi landslide containing the `.kml` file of landslide boundary            |
+| kotropi_Landslide_data.tif     | 35KB     | Example of Kotropi landslide containing the grid data in `.tiff` file formate boundary   |
 | Main_code.m                    | 42KB     | The main code to execute all the task for getting the results                          |
 | Main_Code.mlx                  | 3,556KB  | The main code in `.mlx` formate for visualising the results step by step               |
 | poly3n.m                       | 1KB      | Function used during spline curve                                                      |
