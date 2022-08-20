@@ -1,7 +1,6 @@
 # Failure_surface_estimator
 
-![https://doi.org/10.1007/s10346-022-01940-5](https://img.shields.io/badge/DOI-10.1007%2Fs10346--022--01940--5-blue)
-
+[![https://img.shields.io/badge/DOI-10.1007%2Fs10346--022--01940--5-blue](https://img.shields.io/badge/DOI-10.1007%2Fs10346--022--01940--5-blue)](https://doi.org/10.1007/s10346-022-01940-5)
 
 ## Method to estimate the initial landslide failure surface and volumes using grid points and spline curves in MATLAB
 
