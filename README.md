@@ -58,6 +58,24 @@ The following data are required:
 
 Open `MATLAB`, select the `Main_code.m` script, run the script and visualise the results as `MATLAB` figures and read the valuse from  commond window. For visualising the results step by step, select the `main_code.mlx` script and run it. You will see the outputs on the right side. 
 
+## Results
+
+<div align="center">
+    <img src="assets/2.jpg" width=70%>
+<div>
+
+Fig. 1 3D mesh of the failure
+surface and original surface
+together with all the available
+data
+
+<br>
+
+![Figure2](assets/1.jpg)
+Fig. 2 a) Failure height and original height calculated using the spline; b) spline curves of the La Frasse Landslide.
+
+<div align="left">
+
 ## Compatibility
 
 Failure_surface_estimetor is designed under a `MATLAB` architecture. However, it can also be run with `OCTAVE`. We did not check the compatibility of the estimetor with every version of `MATLAB` nor `OCTAVE`, but we provide a non-exhaustive list of compatibility.
