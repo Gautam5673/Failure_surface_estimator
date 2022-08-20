@@ -1,8 +1,11 @@
 # Failure_surface_estimator
 
+![https://img.shields.io/badge/DOI-10.1007%2Fs10346--022--01940--5-blue](https://img.shields.io/badge/DOI-10.1007%2Fs10346--022--01940--5-blue)
+
+
 ## Method to estimate the initial landslide failure surface and volumes using grid points and spline curves in MATLAB
 
-Failure_surface_estimator is a new method to estimate the initial landslide failure surface and volumes using grid points and spline curves in MATLAB. The data inputs and the `MATLAB` codes and functions are discribed in the main code as instructions while running, to complete all the steps.profles. The model will give the depth of the probable failure surface plotted using the 2D grid function.
+Failure_surface_estimator is a new method to estimate the initial landslide failure surface and volumes using grid points and spline curves in `MATLAB`. The data inputs and the `MATLAB` codes and functions are discribed in the main code as instructions while running, to complete all the steps.profles. The model will give the depth of the probable failure surface plotted using the 2D grid function.
 
 We can easily visualize the results by running the codes; the display will show the step-by-step processes involved.The user needs to have the `MATLAB` Mapping Toolbox (`MATLAB 2021`) installed as an extension to run the code.This is compatible with organizing geographic data and allows for the interpolation, trimming, resampling, and transformation of coordinates.
 
@@ -45,18 +48,6 @@ Folder:.
 | spline_param_new.m             | 1KB      | Fuction to store the values for the parameters of spline curve                         |
 | utm2deg.m                      | 1KB      | Function to convert vectors of UTM coordinates into Lat/Lon vectors                    |
 
-Additionally, if you are interested in our paper, please consider citing:
-
-```bibtex
-@article{GAUTAM2022,
-title = "Method to estimate the initial landslide failure surface and volumes using grid points and spline curves in MATLAB",
-journal = "Landslides",
-year = "2022",
-doi = "https://doi.org/10.1007/s10346-022-01940-5",
-author = "Gautam Prajapati and Michel Jaboyedoff"
-}
-```
-
 ## Data required
 The following data are required:
 
@@ -66,20 +57,34 @@ The following data are required:
 
 ## Quick Start
 
-Open `MATLAB`, select the `Main_code.m` script, run the script and visualise the results as matlab figures and read the valuse from  commond window. For visualising the results step by step, select the `main_code.mlx` script and run it. You will see the outputs on the right side. 
+Open `MATLAB`, select the `Main_code.m` script, run the script and visualise the results as `MATLAB` figures and read the valuse from  commond window. For visualising the results step by step, select the `main_code.mlx` script and run it. You will see the outputs on the right side. 
 
 ## Compatibility
 
-Failure_surface_estimetor is designed under a MATLAB architecture. However, it can also be run with OCTAVE. We did not check the compatibility of the estimetor with every version of MATLAB nor OCTAVE, but we provide a non-exhaustive list of compatibility.
+Failure_surface_estimetor is designed under a `MATLAB` architecture. However, it can also be run with `OCTAVE`. We did not check the compatibility of the estimetor with every version of `MATLAB` nor `OCTAVE`, but we provide a non-exhaustive list of compatibility.
 
-MATLAB version:R2020b,R2020a, R2018b, R2018a, R2017b, R2016a, R2013b
+`MATLAB` version:R2020b,R2020a, R2018b, R2018a, R2017b, R2016a, R2013b
 
-OCTAVE version: 5.1.0.0
+`OCTAVE` version: 5.1.0.0
 
 ## Funding
 
 Open access funding provided by University of Lausanne - Switzerland.
 
-<br>
+Additionally, if you are interested in our paper, please consider citing:
+
+```bibtex
+@article{Prajapati2022,
+author = "Prajapati, Gautam and Jaboyedoff, Michel",
+title = "Method to estimate the initial landslide failure surface and volumes using grid points and spline curves in MATLAB",
+journal = "Landslides",
+year = "2022",
+month = "Aug",
+day = "16",
+issn = "1612-5118",
+doi = "10.1007/s10346-022-01940-5",
+url = "https://doi.org/10.1007/s10346-022-01940-5"
+}
+```
 
 > 📧 Contact: gautam@es.iitr.ac.in
