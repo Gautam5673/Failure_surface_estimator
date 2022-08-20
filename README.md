@@ -60,9 +60,7 @@ Open `MATLAB`, select the `Main_code.m` script, run the script and visualise the
 
 ## Results
 
----
-
-<div align=center>
+<div align="center">
     <img src="assets/2.jpg" width=70%>
 <div>
 
@@ -76,6 +74,7 @@ data
 ![Figure2](assets/1.jpg)
 Fig. 2 a) Failure height and original height calculated using the spline; b) spline curves of the La Frasse Landslide.
 
+<div align="left">
 
 ## Compatibility
 
